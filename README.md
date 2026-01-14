@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="images/GA (WITH HISTORY).png" width="850">
+</p>
+
+**TL;DR:** This project models wildfire risk across the U.S. using spatiotemporal environmental features and applies a Genetic Algorithm to optimize search and prediction behavior under physical constraints.
+
+
 # Spatiotemporal Wildfire Risk Prediction using Evolutionary Algorithms
 
 This project presents a **physics-informed Genetic Algorithm (GA)** for efficient spatiotemporal wildfire risk prediction, designed for **autonomous drones and swarm-based scouting** in compute- and bandwidth-constrained environments.
@@ -68,12 +75,38 @@ J(x) = Fuel × Weather × Slope × (1 + w_h e^{-d})
 
 ## 🛠️ Setup & Usage
 
-Install dependencies:
+## How to run locally
+
+### 1) Clone the repo
 ```bash
+git clone https://github.com/aditdhall/spatiotemporal-wildfire-ga.git
+cd spatiotemporal-wildfire-ga
+```
+
+### 2) Create a virtual environment (recommended)
+```
+python -m venv .venv
+source .venv/bin/activate   # macOS/Linux
+# .venv\Scripts\activate    # Windows
+```
+
+### 3) Install dependencies
+```
 pip install -r requirements.txt
 ```
-Run Term_Project.ipynb to reproduce experiments and GA search behavior.
 
+### 4) Launch Jupyter
+```
+jupyter notebook
+```
+
+### 5) Run the full pipeline
+Open Term_Project.ipynb and run all cells (Kernel → Restart & Run All).
+
+Notebook order (if running manually):
+ndvi.ipynb (NDVI features)
+DEM.ipynb (terrain features)
+Term_Project.ipynb (modeling + GA optimization)
 
 
 ---
