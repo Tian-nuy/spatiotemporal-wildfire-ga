@@ -48,6 +48,8 @@ Fitness formulation:
 ---
 
 ## 📁 Repository Structure
+
+```
 .
 ├── Term_Project.ipynb      # Main end-to-end modeling pipeline (start here)
 ├── ndvi.ipynb              # NDVI-based fuel feature extraction
@@ -56,6 +58,8 @@ Fitness formulation:
 ├── images/                 # Figures and result visualizations
 ├── poster/                 # Academic poster (PDF)
 └── requirements.txt
+```
+
 
 
 
@@ -96,6 +100,6 @@ Processed datasets are available in the data/ directory.
 ---
 
 ## 👤 Author
-Adit Dhall
-MS Artificial Intelligence
-📧 ad6449@rit.edu
+- Adit Dhall
+- MS Artificial Intelligence
+- 📧 ad6449@rit.edu
