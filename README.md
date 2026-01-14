@@ -49,13 +49,14 @@ Fitness formulation:
 
 ## 📁 Repository Structure
 .
-├── Term_Project.ipynb # Main end-to-end modeling pipeline (start here)
-├── ndvi.ipynb # NDVI-based fuel feature extraction
-├── DEM.ipynb # Terrain slope and elevation feature engineering
-├── data/ # Processed datasets with NDVI & DEM features
-├── images/ # Figures and result visualizations
-├── poster/ # Academic poster (PDF)
+├── Term_Project.ipynb      # Main end-to-end modeling pipeline (start here)
+├── ndvi.ipynb              # NDVI-based fuel feature extraction
+├── DEM.ipynb               # Terrain slope and elevation feature engineering
+├── data/                   # Processed datasets with NDVI & DEM features
+├── images/                 # Figures and result visualizations
+├── poster/                 # Academic poster (PDF)
 └── requirements.txt
+
 
 
 ---
